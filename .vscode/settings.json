@@ -23,6 +23,10 @@
     "Failed.html": true,
     "static/assets/js/fa.js": true
   },
+  "search.exclude" : {
+  }.
+  
+}.
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   }
